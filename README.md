@@ -38,7 +38,7 @@
 
 <a id="about"></a>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF512F,100:F09819&height=70&section=header&text=📌%20About%20The%20Project&fontSize=30&fontColor=ffffff" alt="About The Project" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=120&section=header&text=📌%20About%20The%20Project&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="About The Project" width="100%"/>
 </div>
 
 This project is a **complete Sales Analytics workbook built in Microsoft Excel**. It takes **200 sales orders** (10 Apr 2024 → 07 Apr 2025) from **30 customers** across **5 regions** and **5 product categories**, and converts them into a clean, interactive dashboard with KPIs, charts, customer ranking, regression, descriptive statistics and a what-if discount simulator.
@@ -49,7 +49,7 @@ Everything is **formula-driven**, so when the dataset changes, the KPIs, tables,
 
 <a id="objectives"></a>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:F7971E,100:FFD200&height=70&section=header&text=🎯%20Project%20Objectives&fontSize=30&fontColor=ffffff" alt="Project Objectives" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7971E,100:FFD200&height=120&section=header&text=🎯%20Project%20Objectives&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=twinkling" alt="Project Objectives" width="100%"/>
 </div>
 
 - 📊 Track overall **sales performance** with clear KPIs (sales, orders, profit, margin, discount)
@@ -63,7 +63,7 @@ Everything is **formula-driven**, so when the dataset changes, the KPIs, tables,
 
 <a id="kpis"></a>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:11998E,100:38EF7D&height=70&section=header&text=🎯%20Key%20KPIs&fontSize=30&fontColor=ffffff" alt="Key KPIs" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998E,100:38EF7D&height=120&section=header&text=🎯%20Key%20KPIs&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=scaleIn" alt="Key KPIs" width="100%"/>
 </div>
 
 | 📊 KPI | 💰 Value |
@@ -84,7 +84,7 @@ Everything is **formula-driven**, so when the dataset changes, the KPIs, tables,
 
 <a id="insights"></a>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8E2DE2,100:4A00E0&height=70&section=header&text=💡%20Key%20Insights&fontSize=30&fontColor=ffffff" alt="Key Insights" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=header&text=💡%20Key%20Insights&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=blinking" alt="Key Insights" width="100%"/>
 </div>
 
 1. 🌎 **West** is the top region with **44,084** in sales (22.6 % of total); **East** is the weakest.
@@ -98,7 +98,7 @@ Everything is **formula-driven**, so when the dataset changes, the KPIs, tables,
 
 <a id="breakdown"></a>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FC466B,100:3F5EFB&height=70&section=header&text=📊%20Detailed%20Breakdown&fontSize=30&fontColor=ffffff" alt="Detailed Breakdown" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,100:3F5EFB&height=120&section=header&text=📊%20Detailed%20Breakdown&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Detailed Breakdown" width="100%"/>
 </div>
 
 ### 🌎 Sales by Region
@@ -163,7 +163,7 @@ Everything is **formula-driven**, so when the dataset changes, the KPIs, tables,
 
 <a id="workbook"></a>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00C6FF,100:0072FF&height=70&section=header&text=🗂️%20Workbook%20Structure&fontSize=30&fontColor=ffffff" alt="Workbook Structure" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=header&text=🗂️%20Workbook%20Structure&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=twinkling" alt="Workbook Structure" width="100%"/>
 </div>
 
 | # | Sheet | What it contains |
@@ -180,7 +180,7 @@ Everything is **formula-driven**, so when the dataset changes, the KPIs, tables,
 
 <a id="dataset"></a>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:F953C6,100:B91D73&height=70&section=header&text=🧾%20Dataset%20Details&fontSize=30&fontColor=ffffff" alt="Dataset Details" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F953C6,100:B91D73&height=120&section=header&text=🧾%20Dataset%20Details&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=scaleIn" alt="Dataset Details" width="100%"/>
 </div>
 
 **Raw columns:** `Customer_ID` · `Customer_Name` · `Region` · `Product_Category` · `Sales` · `Quantity` · `Discount` · `Order_Date` · `Profit`
@@ -191,7 +191,7 @@ Everything is **formula-driven**, so when the dataset changes, the KPIs, tables,
 
 <a id="charts"></a>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FDC830,100:F37335&height=70&section=header&text=📈%20Visualizations&fontSize=30&fontColor=ffffff" alt="Visualizations" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDC830,100:F37335&height=120&section=header&text=📈%20Visualizations&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=blinking" alt="Visualizations" width="100%"/>
 </div>
 
 | Chart | Type | Sheet |
@@ -216,7 +216,7 @@ pie showData title Sales Share by Product Category
 
 <a id="analysis"></a>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF5F6D,100:FFC371&height=70&section=header&text=🔬%20Statistical%20Analysis&fontSize=30&fontColor=ffffff" alt="Statistical Analysis" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=120&section=header&text=🔬%20Statistical%20Analysis&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Statistical Analysis" width="100%"/>
 </div>
 
 ### 📐 Linear Regression (Profit vs Sales)
@@ -259,7 +259,7 @@ pie showData title Sales Share by Product Category
 
 <a id="conclusion"></a>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:43CEA2,100:185A9D&height=70&section=header&text=✅%20Conclusion%20%26%20Recommendations&fontSize=30&fontColor=ffffff" alt="Conclusion and Recommendations" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:43CEA2,100:185A9D&height=120&section=header&text=✅%20Conclusion%20%26%20Recommendations&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=twinkling" alt="Conclusion and Recommendations" width="100%"/>
 </div>
 
 The business earns a healthy **34.98 % profit margin**, with sales fairly well spread across regions and categories. Based on the analysis, these are suggested next steps:
@@ -274,7 +274,7 @@ The business earns a healthy **34.98 % profit margin**, with sales fairly well s
 
 <a id="limitations"></a>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:636FA4,100:E8CBC0&height=70&section=header&text=⚠️%20Notes%20%26%20Limitations&fontSize=30&fontColor=ffffff" alt="Notes and Limitations" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:636FA4,100:E8CBC0&height=120&section=header&text=⚠️%20Notes%20%26%20Limitations&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=scaleIn" alt="Notes and Limitations" width="100%"/>
 </div>
 
 - 📆 **Apr 2025 is a partial month** (4 orders, data ends 07 Apr), so its drop is not a real decline.
@@ -287,7 +287,7 @@ The business earns a healthy **34.98 % profit margin**, with sales fairly well s
 
 <a id="skills"></a>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00B09B,100:96C93D&height=70&section=header&text=🛠️%20Excel%20Skills%20Used&fontSize=30&fontColor=ffffff" alt="Excel Skills Used" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B09B,100:96C93D&height=120&section=header&text=🛠️%20Excel%20Skills%20Used&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=blinking" alt="Excel Skills Used" width="100%"/>
 </div>
 
 - ✅ **Formulas:** `SUMIFS`, `COUNTIFS`, `SUMPRODUCT`, `INDEX` + `MATCH`, `LARGE`, `RANK`, `IF` / `IFERROR`
@@ -304,7 +304,7 @@ The business earns a healthy **34.98 % profit margin**, with sales fairly well s
 
 <a id="usage"></a>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2193B0,100:6DD5ED&height=70&section=header&text=🚀%20How%20To%20Use&fontSize=30&fontColor=ffffff" alt="How To Use" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193B0,100:6DD5ED&height=120&section=header&text=🚀%20How%20To%20Use&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="How To Use" width="100%"/>
 </div>
 
 1. **Download** `PR2_FINALL_DASHBOARDSS.xlsx` from this repository.
@@ -317,7 +317,7 @@ The business earns a healthy **34.98 % profit margin**, with sales fairly well s
 
 <a id="structure"></a>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:4776E6,100:8E54E9&height=70&section=header&text=📁%20Repository%20Structure&fontSize=30&fontColor=ffffff" alt="Repository Structure" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=120&section=header&text=📁%20Repository%20Structure&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=twinkling" alt="Repository Structure" width="100%"/>
 </div>
 
 ```text
@@ -330,7 +330,7 @@ The business earns a healthy **34.98 % profit margin**, with sales fairly well s
 
 <a id="future"></a>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7F00FF,100:E100FF&height=70&section=header&text=🔮%20Future%20Improvements&fontSize=30&fontColor=ffffff" alt="Future Improvements" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=header&text=🔮%20Future%20Improvements&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=scaleIn" alt="Future Improvements" width="100%"/>
 </div>
 
 - [ ] Add slicers for Region, Category and Date
@@ -342,7 +342,7 @@ The business earns a healthy **34.98 % profit margin**, with sales fairly well s
 
 <a id="author"></a>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF0099,100:493240&height=70&section=header&text=👩‍💻%20Author&fontSize=30&fontColor=ffffff" alt="Author" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0099,100:493240&height=120&section=header&text=👩‍💻%20Author&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=blinking" alt="Author" width="100%"/>
 </div>
 
 <div align="center">
