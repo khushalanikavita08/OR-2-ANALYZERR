@@ -34,7 +34,9 @@
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:38EF7D,75:00C6FF,100:6A11CB&height=5&section=header" width="100%" alt="divider"/>
+</div>
 
 <a id="about"></a>
 <div align="center">
@@ -45,7 +47,9 @@ This project is a **complete Sales Analytics workbook built in Microsoft Excel**
 
 Everything is **formula-driven**, so when the dataset changes, the KPIs, tables, charts and even the written *Key Insights* update automatically. ⚡
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:38EF7D,75:00C6FF,100:6A11CB&height=5&section=header" width="100%" alt="divider"/>
+</div>
 
 <a id="objectives"></a>
 <div align="center">
@@ -59,28 +63,27 @@ Everything is **formula-driven**, so when the dataset changes, the KPIs, tables,
 - 🏷️ Test **how discounts affect total profit** with a what-if simulator
 - 🗣️ Present results as **data storytelling**: insights that update automatically
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:38EF7D,75:00C6FF,100:6A11CB&height=5&section=header" width="100%" alt="divider"/>
+</div>
 
 <a id="kpis"></a>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998E,100:38EF7D&height=120&section=header&text=🎯%20Key%20KPIs&fontSize=32&fontColor=ffffff&fontAlignY=38&animation=scaleIn" alt="Key KPIs" width="100%"/>
 </div>
 
-| 📊 KPI | 💰 Value |
-|:--|--:|
-| **Total Sales** | 195,217.76 |
-| **Total Orders** | 200 |
-| **Total Profit** | 68,287.01 |
-| **Profit Margin** | 34.98 % |
-| **Average Order Value** | 976.09 |
-| **Highest Single Sale** | 1,923.66 |
-| **Discount Given** | 19,272.76 (avg. 9.87 %) |
-| **Top Customer** | CUST015 |
-| **Best Region** | West |
-| **Best Category** | Books |
-| **Best Month** | Sep 2024 |
+<div align="center">
 
-<br/>
+<img src="https://img.shields.io/badge/💰%20Total%20Sales-195,217.76-FF512F?style=for-the-badge&labelColor=2D2D2D" alt="💰 Total Sales"/> <img src="https://img.shields.io/badge/🧾%20Total%20Orders-200-8E2DE2?style=for-the-badge&labelColor=2D2D2D" alt="🧾 Total Orders"/> <img src="https://img.shields.io/badge/📈%20Total%20Profit-68,287.01-11998E?style=for-the-badge&labelColor=2D2D2D" alt="📈 Total Profit"/><br/><br/>
+<img src="https://img.shields.io/badge/🎯%20Profit%20Margin-34.98%25-F09819?style=for-the-badge&labelColor=2D2D2D" alt="🎯 Profit Margin"/> <img src="https://img.shields.io/badge/🛒%20Avg%20Order%20Value-976.09-00C6FF?style=for-the-badge&labelColor=2D2D2D" alt="🛒 Avg Order Value"/> <img src="https://img.shields.io/badge/🏆%20Highest%20Sale-1,923.66-DD2476?style=for-the-badge&labelColor=2D2D2D" alt="🏆 Highest Sale"/><br/><br/>
+<img src="https://img.shields.io/badge/🏷️%20Discount%20Given-19,272.76-F953C6?style=for-the-badge&labelColor=2D2D2D" alt="🏷️ Discount Given"/> <img src="https://img.shields.io/badge/✂️%20Avg%20Discount-9.87%25-6A11CB?style=for-the-badge&labelColor=2D2D2D" alt="✂️ Avg Discount"/> <img src="https://img.shields.io/badge/👑%20Top%20Customer-CUST015-FDC830?style=for-the-badge&labelColor=2D2D2D" alt="👑 Top Customer"/><br/><br/>
+<img src="https://img.shields.io/badge/🌎%20Best%20Region-West-2193B0?style=for-the-badge&labelColor=2D2D2D" alt="🌎 Best Region"/> <img src="https://img.shields.io/badge/📚%20Best%20Category-Books-43CEA2?style=for-the-badge&labelColor=2D2D2D" alt="📚 Best Category"/> <img src="https://img.shields.io/badge/📅%20Best%20Month-Sep%202024-FC466B?style=for-the-badge&labelColor=2D2D2D" alt="📅 Best Month"/><br/><br/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:38EF7D,75:00C6FF,100:6A11CB&height=5&section=header" width="100%" alt="divider"/>
+</div>
 
 <a id="insights"></a>
 <div align="center">
@@ -94,7 +97,9 @@ Everything is **formula-driven**, so when the dataset changes, the KPIs, tables,
 5. 📈 **Regression:** every extra 1 of Sales adds about **0.35 profit** (R² = 0.60).
 6. 🏷️ **What-if:** a flat 10 % discount would change total profit by only **−249 (−0.4 %)** versus today.
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:38EF7D,75:00C6FF,100:6A11CB&height=5&section=header" width="100%" alt="divider"/>
+</div>
 
 <a id="breakdown"></a>
 <div align="center">
@@ -103,23 +108,23 @@ Everything is **formula-driven**, so when the dataset changes, the KPIs, tables,
 
 ### 🌎 Sales by Region
 
-| Region | Total Sales | Share |
-|:--|--:|--:|
-| 🥇 West | 44,083.58 | 22.6 % |
-| 🥈 Central | 43,468.33 | 22.3 % |
-| 🥉 South | 40,248.79 | 20.6 % |
-| North | 34,975.42 | 17.9 % |
-| East | 32,441.64 | 16.6 % |
+| Region | Total Sales | Share | Performance |
+|:--|--:|--:|:--|
+| 🥇 West | 44,083.58 | 22.6 % | ████████████ |
+| 🥈 Central | 43,468.33 | 22.3 % | ████████████ |
+| 🥉 South | 40,248.79 | 20.6 % | ███████████░ |
+| North | 34,975.42 | 17.9 % | ██████████░░ |
+| East | 32,441.64 | 16.6 % | █████████░░░ |
 
 ### 🛍️ Sales by Product Category
 
-| Category | Total Sales | Share |
-|:--|--:|--:|
-| 🥇 Books | 47,002.46 | 24.1 % |
-| 🥈 Clothing | 41,927.59 | 21.5 % |
-| 🥉 Electronics | 41,044.00 | 21.0 % |
-| Furniture | 36,612.89 | 18.8 % |
-| Office Supplies | 28,630.82 | 14.7 % |
+| Category | Total Sales | Share | Performance |
+|:--|--:|--:|:--|
+| 🥇 Books | 47,002.46 | 24.1 % | ████████████ |
+| 🥈 Clothing | 41,927.59 | 21.5 % | ███████████░ |
+| 🥉 Electronics | 41,044.00 | 21.0 % | ██████████░░ |
+| Furniture | 36,612.89 | 18.8 % | █████████░░░ |
+| Office Supplies | 28,630.82 | 14.7 % | ███████░░░░░ |
 
 ### 📅 Monthly Sales Trend
 
@@ -159,7 +164,9 @@ Everything is **formula-driven**, so when the dataset changes, the KPIs, tables,
 
 > ℹ️ *Total Purchase = Sales after discount. The Top N cut-off for the "High Value" tier is editable on the CUSTOMERS sheet (default = 10).*
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:38EF7D,75:00C6FF,100:6A11CB&height=5&section=header" width="100%" alt="divider"/>
+</div>
 
 <a id="workbook"></a>
 <div align="center">
@@ -176,7 +183,9 @@ Everything is **formula-driven**, so when the dataset changes, the KPIs, tables,
 | 6 | **REGRESSION** | Linear regression (Profit vs Sales) with prediction tool |
 | 7 | **DESCRIPTIVE STATS** | Mean, median, std. deviation, skewness, kurtosis and Sales histogram |
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:38EF7D,75:00C6FF,100:6A11CB&height=5&section=header" width="100%" alt="divider"/>
+</div>
 
 <a id="dataset"></a>
 <div align="center">
@@ -187,7 +196,9 @@ Everything is **formula-driven**, so when the dataset changes, the KPIs, tables,
 
 **Calculated columns:** `Discount Amount` · `Total Purchase` (sales after discount) · `Profit Margin` · `Profit Status` · `Order Month` · `Timestamp`
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:38EF7D,75:00C6FF,100:6A11CB&height=5&section=header" width="100%" alt="divider"/>
+</div>
 
 <a id="charts"></a>
 <div align="center">
@@ -212,7 +223,9 @@ pie showData title Sales Share by Product Category
     "Office Supplies" : 28630.82
 ```
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:38EF7D,75:00C6FF,100:6A11CB&height=5&section=header" width="100%" alt="divider"/>
+</div>
 
 <a id="analysis"></a>
 <div align="center">
@@ -255,7 +268,9 @@ pie showData title Sales Share by Product Category
 
 > 📦 Most orders fall between **750 and 1,250** in sales (118 of 200 orders, 59 %), and the Sales distribution is close to normal.
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:38EF7D,75:00C6FF,100:6A11CB&height=5&section=header" width="100%" alt="divider"/>
+</div>
 
 <a id="conclusion"></a>
 <div align="center">
@@ -270,7 +285,9 @@ The business earns a healthy **34.98 % profit margin**, with sales fairly well s
 4. 🏷️ **Review discounting.** In the simulation each 5-point drop in discount adds roughly 9,700 to profit, if order volume stays the same.
 5. 📅 **Plan campaigns around the slow months** (Jul, Aug and Dec) and prepare stock for the strong ones (Jun, Sep and Nov).
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:38EF7D,75:00C6FF,100:6A11CB&height=5&section=header" width="100%" alt="divider"/>
+</div>
 
 <a id="limitations"></a>
 <div align="center">
@@ -283,7 +300,9 @@ The business earns a healthy **34.98 % profit margin**, with sales fairly well s
 - 🗓️ **Only one year of data**, so seasonal patterns are indications, not confirmed trends.
 - 💱 The workbook does not mention a currency, so values are shown without a currency symbol.
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:38EF7D,75:00C6FF,100:6A11CB&height=5&section=header" width="100%" alt="divider"/>
+</div>
 
 <a id="skills"></a>
 <div align="center">
@@ -300,7 +319,9 @@ The business earns a healthy **34.98 % profit margin**, with sales fairly well s
 - ✅ **What-If Analysis** with editable input cells
 - ✅ **Data storytelling:** insights that rewrite themselves when the data changes
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:38EF7D,75:00C6FF,100:6A11CB&height=5&section=header" width="100%" alt="divider"/>
+</div>
 
 <a id="usage"></a>
 <div align="center">
@@ -313,7 +334,9 @@ The business earns a healthy **34.98 % profit margin**, with sales fairly well s
 4. Use the **filter arrows** on the CUSTOMERS sheet to filter by *Customer Tier*.
 5. Edit the **yellow cells** (Top N cut-off, scenario discount, bin width, prediction input) to explore your own scenarios.
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:38EF7D,75:00C6FF,100:6A11CB&height=5&section=header" width="100%" alt="divider"/>
+</div>
 
 <a id="structure"></a>
 <div align="center">
@@ -326,7 +349,9 @@ The business earns a healthy **34.98 % profit margin**, with sales fairly well s
  ┗ 📄 README.md                     → project documentation
 ```
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:38EF7D,75:00C6FF,100:6A11CB&height=5&section=header" width="100%" alt="divider"/>
+</div>
 
 <a id="future"></a>
 <div align="center">
@@ -338,7 +363,9 @@ The business earns a healthy **34.98 % profit margin**, with sales fairly well s
 - [ ] Forecast next months' sales with a trend / moving average
 - [ ] Connect the data to Power BI for a live web dashboard
 
-<br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:38EF7D,75:00C6FF,100:6A11CB&height=5&section=header" width="100%" alt="divider"/>
+</div>
 
 <a id="author"></a>
 <div align="center">
@@ -348,6 +375,8 @@ The business earns a healthy **34.98 % profit margin**, with sales fairly well s
 <div align="center">
 
 ### ✨ **Kavita Khushalani** ✨
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=DD2476&center=true&vCenter=true&width=640&height=45&lines=Thank+you+for+visiting+my+project+%F0%9F%99%8F;Keep+analysing%2C+keep+growing+%F0%9F%9A%80;Made+with+%E2%9D%A4+by+Kavita+Khushalani" alt="Typing animation"/>
 
 *Aspiring Data Analyst — turning data into decisions.*
 
