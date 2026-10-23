@@ -49,7 +49,10 @@ Everything is **formula-driven**, so when the dataset changes, the KPIs, tables,
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:38EF7D,75:00C6FF,100:6A11CB&height=5&section=header" width="100%" alt="divider"/>
-</div>
+</div> 
+
+<img width="2400" height="2700" alt="sales_dashboard_final" src="https://github.com/user-attachments/assets/3caf406d-36f6-4071-b1c9-647777e04fb1" />
+
 
 <a id="objectives"></a>
 <div align="center">
